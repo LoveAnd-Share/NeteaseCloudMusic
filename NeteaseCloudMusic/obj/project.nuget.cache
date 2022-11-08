@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "K0Z7kHMGXhzVCnQ9MTkNPyoqDYzdVU1A3vJZ5wsjzyvWa6p1tsr4hTvGiL9NuNnINzPrlziWppH2kNO8rSWNnQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Magic\\Desktop\\NeteaseCloudMusic\\NeteaseCloudMusic\\NeteaseCloudMusic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Magic\\.nuget\\packages\\materialskin.net5\\1.0.1\\materialskin.net5.1.0.1.nupkg.sha512",
+    "C:\\Users\\Magic\\.nuget\\packages\\sunnyui\\3.2.6.1\\sunnyui.3.2.6.1.nupkg.sha512",
+    "C:\\Users\\Magic\\.nuget\\packages\\sunnyui.common\\3.2.6\\sunnyui.common.3.2.6.nupkg.sha512"
+  ],
+  "logs": []
+}
